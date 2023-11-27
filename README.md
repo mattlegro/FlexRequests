@@ -1,0 +1,1 @@
+A notebook used to investigate Flex Data's descriptive paragraph API.
